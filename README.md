@@ -26,14 +26,14 @@ The Excel file contains **three key sheets**:
 - **Formulas** – Including `SUMIFS`, `COUNTIFS`, and others to structure data summaries.
 - **Charting** – Used to visualize departmental spending.
 
-##Conclusion
+## Conclusion
 
-The dashboard highlights key insights into departmental spending and invoice management:
--Invoice Payment Trends: It’s clear which departments are consistently staying on top of their invoice payments, and which may require closer attention or support.
--Departmental Spending Comparison: The dashboard allows for easy comparison of total spend across departments, revealing where the highest costs are occurring.
+The dashboard highlights several key insights into departmental spending and invoice management:
+
+- **Invoice Payment Trends:** It’s clear which departments are consistently staying on top of their invoice payments, and which may require closer attention or support.  
+- **Departmental Spending Comparison:** The dashboard allows for easy comparison of total spend across departments, revealing where the highest costs are occurring.
 
 Based on these insights, I would recommend conducting a review of the highest-spending departments to ensure all expenses are justified. Additionally, encouraging all departments to process invoices promptly will help maintain smooth financial operations and avoid unnecessary delays or complications.
-
 
 ## PDF formats of the sheets 
 -[original data](https://github.com/ChristianJudge/spreadsheet-practice/blob/main/Untitled%20spreadsheet%20-%20original%20data.pdf)
