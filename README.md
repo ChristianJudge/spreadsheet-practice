@@ -4,7 +4,7 @@ This project demonstrates my ability to work with spreadsheets to manage, clean,
 
 ## About the Project
 
-The project simulates a realistic administrative task: managing and analyzing departmental invoice data (14/03/24 - 21/06/24). It showcases how raw business data can be transformed into meaningful insights through spreadsheet tools and design best practices.
+The dashboard simulates a real-world administrative task: reviewing and managing departmental invoice records over a business quarter (14/03/24 - 21/06/24). The goal is to transform raw invoice data into clear, actionable insights that support operational decision-making.
 
 The Excel file contains **three key sheets**:
 [->Excel sheet<-](https://github.com/ChristianJudge/spreadsheet-practice/blob/main/admin%20work%20invoices.xlsx)
